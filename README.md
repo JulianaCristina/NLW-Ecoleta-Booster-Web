@@ -27,10 +27,6 @@
 <blockquote>$ cd NLW-Ecoleta-Booster-Server</blockquote>
 <p> Install dependencies </p>
 <blockquote>$ npm install</blockquote>
-<p> Run migrates </p>
-<blockquote>$ npm knex:migrate</blockquote>
-<p> Run seeds </p>
-<blockquote>$ npm knex:seed</blockquote>
 <p> Run the server </p>
 <blockquote>$ npm start</blockquote>
 
