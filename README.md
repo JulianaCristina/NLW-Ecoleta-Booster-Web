@@ -1,7 +1,7 @@
 <h1 align="center"> Ecoleta - Front Web </h1> 
 
 <h1 align="center">
-    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./public/assets/banner.png" />
+    <img alt="NextLevelWeek" title="#NextLevelWeek" src="./src/assets/banner.png" />
 </h1>
 
 <h4 align="center"> This project was developed in the event Next Level Week (NLW) 1, organized by
